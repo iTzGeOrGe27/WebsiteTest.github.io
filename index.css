@@ -1,0 +1,51 @@
+.coloane{
+    
+    color: aqua;
+}
+#intrebare{
+    margin-right: 1em;
+    margin-left: 0em;
+    padding-right: 5em;
+    text-align: right;
+}
+#emailu{
+    margin-left: 0em;
+    margin-right: 0.7em;
+    padding-right: 5em;
+    text-align: left;
+}
+
+
+#codeville{
+    text-align: center;
+    margin-top: 0em;
+    color: rgb(79, 79, 214);
+}
+#meniu{
+    margin-top: 5em;
+}
+#cuvanti{
+    margin-top: 3em;
+    text-align: center;
+    color: rgb(184, 216, 216);
+}
+#lorena{
+    text-align: right;
+    margin-right: 0em;
+    padding-right: 0em;
+    color: rgb(255, 183, 0);
+}
+
+#butonas{
+    margin-top: 12em;
+    margin-left: 25em;
+}
+.butonel{
+    padding: 20em;
+}
+.meniuletz{
+    margin-top: 2em;
+}
+#corp{
+    background-color: rgb(91, 184, 238);
+}
